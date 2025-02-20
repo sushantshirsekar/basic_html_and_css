@@ -25,6 +25,7 @@ hr {
     margin-right: auto;
     padding: 20px;
     max-width: 500px;
+    border-radius: 5px;
 }
 
 .item p {
@@ -91,4 +92,8 @@ a:hover {
 
 a:active {
     color: brown;
+}
+
+.address{
+    margin-bottom: 5px;
 }
